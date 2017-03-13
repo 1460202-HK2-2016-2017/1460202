@@ -28,12 +28,6 @@
         "Entry"
         {
         "MsmKey" = "8:_0D546A5F37833F03E5204CE13ABC8CF8"
-        "OwnerKey" = "8:_99482303F58B4D50BCEF2891D05987C3"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_0D546A5F37833F03E5204CE13ABC8CF8"
         "OwnerKey" = "8:_2E4A1FAD4C41F239BB83C4A534071DFC"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -125,6 +119,12 @@
         {
         "MsmKey" = "8:_0D546A5F37833F03E5204CE13ABC8CF8"
         "OwnerKey" = "8:_7E0D89E80D7114E7477369EA5C071D66"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0D546A5F37833F03E5204CE13ABC8CF8"
+        "OwnerKey" = "8:_99482303F58B4D50BCEF2891D05987C3"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -472,12 +472,6 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_2E4A1FAD4C41F239BB83C4A534071DFC"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_99482303F58B4D50BCEF2891D05987C3"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -580,6 +574,12 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_2E4A1FAD4C41F239BB83C4A534071DFC"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_0D546A5F37833F03E5204CE13ABC8CF8"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -601,6 +601,22 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    }
+                }
+            }
         }
         "Release"
         {
@@ -617,6 +633,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -1214,7 +1238,7 @@
             {
             "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
             "Name" = "8:#1925"
-            "AlwaysCreate" = "11:FALSE"
+            "AlwaysCreate" = "11:TRUE"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Property" = "8:TARGETDIR"
@@ -1225,7 +1249,7 @@
             "{1525181F-901A-416C-8A58-119130FE478E}:_101BDB7CDD01452CA9A28323246F9B41"
             {
             "Name" = "8:#1916"
-            "AlwaysCreate" = "11:FALSE"
+            "AlwaysCreate" = "11:TRUE"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Property" = "8:DesktopFolder"
@@ -1261,7 +1285,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Setup"
         "ProductCode" = "8:{C62EAD21-480A-47CE-B4D9-6DC03445DCB2}"
-        "PackageCode" = "8:{918F2907-9B15-479D-8B18-15D71E0ACD6D}"
+        "PackageCode" = "8:{4E21D811-C8E9-4B9E-9C2F-005534354C15}"
         "UpgradeCode" = "8:{36475CAB-8F46-430D-91ED-6C3C99D497FF}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -1381,16 +1405,16 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_621C89824074464DAFAD088414BD9346"
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_915C81AFAD4A42B4B1D06E0FEFBCBB73"
             {
-            "Name" = "8:Luyen Tap Giao Dien"
+            "Name" = "8:Luyen tap giao dien"
             "Arguments" = "8:"
             "Description" = "8:"
             "ShowCmd" = "3:1"
             "IconIndex" = "3:0"
             "Transitive" = "11:FALSE"
-            "Target" = "8:_99482303F58B4D50BCEF2891D05987C3"
-            "Folder" = "8:_02EBC8838C8348D195BBA144596C418E"
+            "Target" = "8:_02EBC8838C8348D195BBA144596C418E"
+            "Folder" = "8:_101BDB7CDD01452CA9A28323246F9B41"
             "WorkingFolder" = "8:_02EBC8838C8348D195BBA144596C418E"
             "Icon" = "8:"
             "Feature" = "8:"
