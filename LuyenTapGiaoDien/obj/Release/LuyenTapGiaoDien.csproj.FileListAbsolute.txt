@@ -1,0 +1,17 @@
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\bin\Release\LuyenTapGiaoDien.exe.config
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\bin\Release\LuyenTapGiaoDien.exe
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\bin\Release\LuyenTapGiaoDien.pdb
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\LuyenTapGiaoDien.csprojResolveAssemblyReference.cache
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\GiaoDien1.baml
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\MainWindow.baml
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\SplashScreen.baml
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\GiaoDien1.g.cs
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\MainWindow.g.cs
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\SplashScreen.g.cs
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\App.g.cs
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\LuyenTapGiaoDien_MarkupCompile.cache
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\LuyenTapGiaoDien.g.resources
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\LuyenTapGiaoDien.Properties.Resources.resources
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\LuyenTapGiaoDien.csproj.GenerateResource.Cache
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\LuyenTapGiaoDien.exe
+D:\HOC-KY-II-2016-2017\Lập trình ứng dụng quản lí 2\Tuần 3 - Luyện tập giao diện-Tạo Setup\1460202\LuyenTapGiaoDien\obj\Release\LuyenTapGiaoDien.pdb
