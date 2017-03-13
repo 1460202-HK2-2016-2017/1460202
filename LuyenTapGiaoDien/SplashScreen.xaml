@@ -1,0 +1,11 @@
+﻿<Window x:Class="LuyenTapGiaoDien.SplashScreen"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SplashScreen" Height="300" Width="300" Loaded="SplashScreen_Loaded" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Picture/icon.png"/>
+        </Grid.Background>
+        <ProgressBar x:Name="Loading" HorizontalAlignment="Stretch" Margin="10,223,10,23"></ProgressBar>
+    </Grid>
+</Window>
